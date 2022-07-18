@@ -1,0 +1,24 @@
+/* :root{
+  background-color: black;
+} */
+
+body{
+    background-color: rgb(110, 61, 194);
+}
+
+.container{
+    background-color: rgb(110, 61, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+
+input{
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+
+}
+
