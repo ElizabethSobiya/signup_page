@@ -15,10 +15,16 @@ body{
     
 }
 
-input{
+.form-control{
     margin: 20px;
-    padding: 20px;
+    padding: 2%;
     width: 300px;
 
 }
+
+#submit{
+    margin-left: 32%;
+    align-items: center;
+}
+
 
